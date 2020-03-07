@@ -1,0 +1,23 @@
+  <html>
+       <head>
+	        <title>Списки. Завдання 1</title>   
+			<style>
+			    body{
+					background-color: seagreen;
+					color: snov;
+					}
+					h1{
+					
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
